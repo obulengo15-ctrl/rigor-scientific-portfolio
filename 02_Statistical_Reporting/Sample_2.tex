@@ -1,0 +1,17 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+% The geometry package sets proper margins to prevent "Overfull \hbox" warnings
+\usepackage[margin=1in]{geometry} 
+
+\begin{document}
+	
+	\section{Results}
+	
+	\subsection{Logistic Regression Analysis of Mortality Predictors}
+	
+	A binary logistic regression was performed to ascertain the effects of age, ejection fraction, serum creatinine, and follow-up time on the likelihood of mortality in a clinical cohort ($N = 299$). The model was statistically significant, $\chi^2(4) = 119.27$, $p < .001$, and explained 42.4\% (Nagelkerke $R^2$) of the variance in mortality events. The model correctly classified 82.1\% of cases and demonstrated strong discriminative ability (ROC-AUC = 0.862).\\
+	
+	\noindent Of the four predictors, three were statistically significant. Lower ejection fraction significantly increased the odds of mortality ($\mathit{OR} = 0.92$, 95\% CI $[0.89, 0.96]$, $p < .001$), as did elevated serum creatinine levels ($\mathit{OR} = 2.56$, 95\% CI $[1.60, 4.08]$, $p < .001$). Follow-up time exhibited a protective effect, with each additional day reducing the odds of mortality ($\mathit{OR} = 0.98$, 95\% CI $[0.97, 0.99]$, $p < .001$). Age was not a significant predictor in this multivariate model ($p = .085$). These findings suggest that hemodynamic and renal biomarkers are more immediate determinants of prognosis than chronological age in this specific cohort.
+	
+\end{document}
