@@ -26,4 +26,4 @@ Welcome to the technical portfolio for **Rigor Scientific Solutions**. This repo
 *   **Standards:** APA 7th Edition, Journal-specific formatting guidelines
 
 ---
-*For research support inquiries, please visit [Your LinkedIn Profile Link].*
+*For research support inquiries, please visit www.linkedin.com/in/vicent-obulengo-69a113a6*
