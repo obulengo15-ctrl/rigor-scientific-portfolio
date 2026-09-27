@@ -25,6 +25,11 @@ Unlike generalist data analysts, I possess direct research experience in geophys
 *   **GNSS & ERA5 Reanalysis:** Proven workflows for Precipitable Water Vapor (PWV) estimation, bias correction, and spatiotemporal alignment.
 *   **MATLAB & Python:** Seamless transition between Python (Pandas/Scikit-learn) and MATLAB for spatial interpolation and matrix operations.
 *   *See folders 05, 06, and 07 for reproducible code.*
+  
+### 7. MATLAB Spatial Analysis & Interpolation
+*   **File:** `07_MATLAB_Spatial_Analysis/spatial_interpolation.m`
+*   **Description:** Vectorized MATLAB workflow for handling missing spatial data (NaNs) in gridded climate datasets. Utilizes natural neighbor interpolation (`griddata`) to reconstruct spatial fields and exports a 300-DPI publication-ready contour map.
+*   **Output:** `spatial_interpolation_output.tif`
 
 ## 🛠️ Technical Stack
 *   **Languages:** Python, LaTeX
