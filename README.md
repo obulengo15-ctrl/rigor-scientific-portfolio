@@ -32,4 +32,4 @@ Unlike generalist data analysts, I possess direct research experience in geophys
 *   **Standards:** APA 7th Edition, Journal-specific formatting guidelines
 
 ---
-*For research support inquiries, please visit www.linkedin.com/in/vicent-obulengo-69a113a6*
+*For research support inquiries, please visit www.linkedin.com/in/vicente-69a113a6*
