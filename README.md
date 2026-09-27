@@ -19,6 +19,12 @@ Welcome to the technical portfolio for **Rigor Scientific Solutions**. This repo
 ### 4. LaTeX & Beamer Formatting
 *   **File:** `04_LaTeX_Templates/`
 *   **Description:** A Master's thesis defense presentation template featuring automated BibTeX referencing and professional typesetting.
+  
+## 5. Specialized Domain Expertise: Earth & Atmospheric Sciences
+Unlike generalist data analysts, I possess direct research experience in geophysical data processing. 
+*   **GNSS & ERA5 Reanalysis:** Proven workflows for Precipitable Water Vapor (PWV) estimation, bias correction, and spatiotemporal alignment.
+*   **MATLAB & Python:** Seamless transition between Python (Pandas/Scikit-learn) and MATLAB for spatial interpolation and matrix operations.
+*   *See folders 05, 06, and 07 for reproducible code.*
 
 ## 🛠️ Technical Stack
 *   **Languages:** Python, LaTeX
